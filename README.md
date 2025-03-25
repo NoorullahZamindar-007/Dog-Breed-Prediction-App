@@ -25,6 +25,9 @@ The Dog Breed Prediction App is a Flask-based web application that predicts the 
 - **NumPy**: Array manipulation and mathematical operations.
 - **HTML/CSS**: Frontend for user interface.
 
+- ![Uploading image.png…]()
+
+
 ---
 
 ## 🗃️ **Project Structure**
