@@ -50,7 +50,7 @@ Dog_Breed_Prediction/
 If you have any questions, suggestions, or feedback regarding this project, feel free to reach out!
 
 - **Name:** Norullah Zamindar
-- **Email:** [norullahzamindar9@gmail.com](mailto:norullahzamindar9@gmail.com)
-- **GitHub:** [Norullah Zamindar](https://github.com/Noorullah_Zamindar_007)
-- **LinkedIn:** [Norullah Zamindar](https://linkedin.com/in/norullahzamindar)
+- **Email:** [norullahzamindar9@gmail.com](norullahzamindar9@gmail.com)
+- **GitHub:** [Norullah Zamindar]([https://github.com/Noorullah_Zamindar_007](https://github.com/Noorullah_Zamindar_007))
+- **LinkedIn:** [Norullah Zamindar](www.linkedin.com/in/noorullah-zamindar-4975a328a)
 
