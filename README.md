@@ -37,7 +37,7 @@ Dog_Breed_Prediction/
 │   └── dog_breed_classifier.keras
 ├── templates/           # HTML templates for the web app
 │   └── index.html        # Main interface for uploading images and displaying predictions
-├── static/              # Static files (CSS, images)
+├── static/              # Static files (CSS, images)                     
 │   ├── uploads/         # Uploaded images folder
 │   └── styles.css       # Styling for the web app
 ├── requirements.txt     # Dependencies file with necessary libraries
