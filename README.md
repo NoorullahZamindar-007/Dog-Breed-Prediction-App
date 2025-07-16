@@ -19,7 +19,7 @@ The Dog Breed Prediction App is a Flask-based web application that predicts the 
                                                        
 ## 🛠️ **Technologies Used**                                                                                                                                                                  
 - **Python 3.8+**: Backend programming.                                                                                                                      
-- **Flask**: Web framework to build the web application.                                                                                                    
+- **Flask**: Web framework to build the web application.                                                                                                                          
 - **TensorFlow/Keras**: Deep learning model for image classification.                                                                       
 - **OpenCV**: Image processing and resizing.                                                        
 - **NumPy**: Array manipulation and mathematical operations.
