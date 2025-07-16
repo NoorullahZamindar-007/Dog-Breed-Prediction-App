@@ -13,7 +13,7 @@ The Dog Breed Prediction App is a Flask-based web application that predicts the 
 - 💻 Responsive and user-friendly design.                                                                               
 - 🔍 Uses Convolutional Neural Networks (CNN) for image classification.                                                                                
 - 📝 Supports multiple dog breeds.                                                                                                                                                                                                                                                  
-- 🗃️ Automatically creates an `uploads/` directory if it does not exist.                                                                                                                                    
+- 🗃️ Automatically creates an `uploads/` directory if it does not exist.                                                                                                                                                         
                                                                                                                                   
 ---                                                                                                                                                               
                                                                                 
