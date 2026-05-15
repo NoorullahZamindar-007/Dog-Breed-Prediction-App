@@ -6,7 +6,7 @@ The Dog Breed Prediction App is a Flask-based web application that predicts the 
   
 ---             
                                                          
-## 🚀 **Features**                                                       
+## 🚀 **Features**                                                        
 - 🌐 Web-based interface for uploading dog images.                                                                                                                                                   
 - 🐕 Predicts the breed of the uploaded dog image.                                                                                                                                                                  
 - 🎯 Displays the breed prediction along with the confidence score.                                                                                                                                                                                                                                                             
