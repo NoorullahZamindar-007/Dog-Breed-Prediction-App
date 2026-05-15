@@ -1,6 +1,6 @@
    # Dog-Breed-Prediction-App
 Dog Breed Prediction App Using Deeplearning, CNN, Flask, Numpy, pandas, kearas, HTML......
-# 🐾 Dog Breed Prediction App
+# 🐾 Dog Breed Prediction App 
 
 The Dog Breed Prediction App is a Flask-based web application that predicts the breed of a dog from an uploaded image. The application utilizes a pre-trained deep learning model built with TensorFlow and Keras. The model is designed to accurately identify the breed of a dog from a given image and display the predicted breed with the confidence score.
  
